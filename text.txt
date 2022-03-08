@@ -1,0 +1,3 @@
+Hello world! 
+This is a test to see whether I've mastered my lesson on TOP (The Odin Project) ...
+Hello mighty Odin!
